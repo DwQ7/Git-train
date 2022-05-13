@@ -64,7 +64,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="pre" />
                       </list>
                     </value>
                   </entry>
